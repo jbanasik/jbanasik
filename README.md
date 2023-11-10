@@ -2,7 +2,8 @@
 - 🔭 **I’m currently working on: Kidang-tikus project**
 - 🌱 _I’m currently learning: Data Structures and Algorithms_
 - 💬 Ask me about: Anything you want :D
-In my free time I like to play games or solve integrals, depends on the mood to be honest
+  
+>In my free time I like to play games or solve integrals, depends on the mood to be honest
 
  <img alt="So cute, isn't it? :D" src="/animals/dog.jpg"> </img>
 
