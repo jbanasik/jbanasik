@@ -6,7 +6,7 @@ In my free time I like to play games or solve integrals, depends on the mood to 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="So cute, isn't it? :D" src="/animals/dog.jpeg">
+ <img alt="So cute, isn't it? :D" src="/animals/dog.jpg">
 </picture>
 <!--
 **jbanasik/jbanasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
