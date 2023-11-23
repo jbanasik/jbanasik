@@ -5,7 +5,7 @@
   
 >In my free time I like to play games or solve integrals, depends on the mood to be honest
 >
-And here is my [webpage](https://jbanasik.github.io)
+And here is my [gitpage](https://jbanasik.github.io)
 
  <img alt="So cute, isn't it? :D" src="/animals/dog.jpg"> </img>
 
