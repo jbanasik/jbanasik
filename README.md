@@ -4,9 +4,11 @@
 - 💬 Ask me about: Anything you want :D
   
 >In my free time I like to play games or solve integrals, depends on the mood to be honest
+>
+And here is my [webpage](https://jbanasik.github.io)
 
  <img alt="So cute, isn't it? :D" src="/animals/dog.jpg"> </img>
-And here is my webpage: https://jbanasik.github.io
+
 <!--
 **jbanasik/jbanasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
