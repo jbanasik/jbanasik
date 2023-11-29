@@ -7,6 +7,9 @@
 >
 And here is my [gitpage](https://jbanasik.github.io)
 
+Link do forka repozytorium: https://github.com/jbanasik/graphcast.git
+Link do wybranego artykułu: https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range
+
  <img alt="So cute, isn't it? :D" src="/animals/dog.jpg"> </img>
 
 <!--
